@@ -38,7 +38,7 @@ const Contact = () => {
               <button className='primary-btn'>SEND MESSAGE</button>
             </form>
             <div className='left row'>
-                <iframe src={map}></iframe>
+                <iframe title="Map" src={map}></iframe>
             </div>
             <h3>Follow us here</h3>
             <span>FACEBOOK TWITTER </span>

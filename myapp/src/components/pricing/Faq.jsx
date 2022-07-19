@@ -1,4 +1,4 @@
-import React, { useRef, useState } from "react"
+import React, { useState } from "react"
 import { faq } from "../../data"
 import Heading from "../common/heading/Heading"
 
